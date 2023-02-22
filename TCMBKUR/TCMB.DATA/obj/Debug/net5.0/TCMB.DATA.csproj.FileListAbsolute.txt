@@ -1,0 +1,15 @@
+C:\Users\zeynep.ozdemir17\source\repos\TCMBKUR\TCMB.DATA\bin\Debug\net5.0\TCMB.DATA.deps.json
+C:\Users\zeynep.ozdemir17\source\repos\TCMBKUR\TCMB.DATA\bin\Debug\net5.0\TCMB.DATA.dll
+C:\Users\zeynep.ozdemir17\source\repos\TCMBKUR\TCMB.DATA\bin\Debug\net5.0\ref\TCMB.DATA.dll
+C:\Users\zeynep.ozdemir17\source\repos\TCMBKUR\TCMB.DATA\bin\Debug\net5.0\TCMB.DATA.pdb
+C:\Users\zeynep.ozdemir17\source\repos\TCMBKUR\TCMB.DATA\obj\Debug\net5.0\TCMB.DATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeynep.ozdemir17\source\repos\TCMBKUR\TCMB.DATA\obj\Debug\net5.0\TCMB.DATA.AssemblyInfoInputs.cache
+C:\Users\zeynep.ozdemir17\source\repos\TCMBKUR\TCMB.DATA\obj\Debug\net5.0\TCMB.DATA.AssemblyInfo.cs
+C:\Users\zeynep.ozdemir17\source\repos\TCMBKUR\TCMB.DATA\obj\Debug\net5.0\TCMB.DATA.csproj.CoreCompileInputs.cache
+C:\Users\zeynep.ozdemir17\source\repos\TCMBKUR\TCMB.DATA\obj\Debug\net5.0\TCMB.DATA.dll
+C:\Users\zeynep.ozdemir17\source\repos\TCMBKUR\TCMB.DATA\obj\Debug\net5.0\ref\TCMB.DATA.dll
+C:\Users\zeynep.ozdemir17\source\repos\TCMBKUR\TCMB.DATA\obj\Debug\net5.0\TCMB.DATA.pdb
+C:\Users\zeynep.ozdemir17\source\repos\TCMBKUR\TCMB.DATA\bin\Debug\net5.0\TCMB.DATA.runtimeconfig.json
+C:\Users\zeynep.ozdemir17\source\repos\TCMBKUR\TCMB.DATA\bin\Debug\net5.0\TCMB.DATA.runtimeconfig.dev.json
+C:\Users\zeynep.ozdemir17\source\repos\TCMBKUR\TCMB.DATA\obj\Debug\net5.0\TCMB.DATA.genruntimeconfig.cache
+C:\Users\zeynep.ozdemir17\source\repos\TCMBKUR\TCMB.DATA\obj\Debug\net5.0\TCMB.DATA.csproj.AssemblyReference.cache

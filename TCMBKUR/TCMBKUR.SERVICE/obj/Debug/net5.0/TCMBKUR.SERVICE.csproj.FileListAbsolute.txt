@@ -1,0 +1,15 @@
+C:\Users\zeynep.ozdemir17\source\repos\TCMBKUR\TCMBKUR.SERVICE\obj\Debug\net5.0\TCMBKUR.SERVICE.csproj.AssemblyReference.cache
+C:\Users\zeynep.ozdemir17\source\repos\TCMBKUR\TCMBKUR.SERVICE\obj\Debug\net5.0\TCMBKUR.SERVICE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeynep.ozdemir17\source\repos\TCMBKUR\TCMBKUR.SERVICE\obj\Debug\net5.0\TCMBKUR.SERVICE.AssemblyInfoInputs.cache
+C:\Users\zeynep.ozdemir17\source\repos\TCMBKUR\TCMBKUR.SERVICE\obj\Debug\net5.0\TCMBKUR.SERVICE.AssemblyInfo.cs
+C:\Users\zeynep.ozdemir17\source\repos\TCMBKUR\TCMBKUR.SERVICE\obj\Debug\net5.0\TCMBKUR.SERVICE.csproj.CoreCompileInputs.cache
+C:\Users\zeynep.ozdemir17\source\repos\TCMBKUR\TCMBKUR.SERVICE\bin\Debug\net5.0\TCMBKUR.SERVICE.deps.json
+C:\Users\zeynep.ozdemir17\source\repos\TCMBKUR\TCMBKUR.SERVICE\bin\Debug\net5.0\TCMBKUR.SERVICE.dll
+C:\Users\zeynep.ozdemir17\source\repos\TCMBKUR\TCMBKUR.SERVICE\bin\Debug\net5.0\ref\TCMBKUR.SERVICE.dll
+C:\Users\zeynep.ozdemir17\source\repos\TCMBKUR\TCMBKUR.SERVICE\bin\Debug\net5.0\TCMBKUR.SERVICE.pdb
+C:\Users\zeynep.ozdemir17\source\repos\TCMBKUR\TCMBKUR.SERVICE\bin\Debug\net5.0\TCMB.DATA.dll
+C:\Users\zeynep.ozdemir17\source\repos\TCMBKUR\TCMBKUR.SERVICE\bin\Debug\net5.0\TCMB.DATA.pdb
+C:\Users\zeynep.ozdemir17\source\repos\TCMBKUR\TCMBKUR.SERVICE\obj\Debug\net5.0\TCMBKUR.SERVICE.csproj.CopyComplete
+C:\Users\zeynep.ozdemir17\source\repos\TCMBKUR\TCMBKUR.SERVICE\obj\Debug\net5.0\TCMBKUR.SERVICE.dll
+C:\Users\zeynep.ozdemir17\source\repos\TCMBKUR\TCMBKUR.SERVICE\obj\Debug\net5.0\ref\TCMBKUR.SERVICE.dll
+C:\Users\zeynep.ozdemir17\source\repos\TCMBKUR\TCMBKUR.SERVICE\obj\Debug\net5.0\TCMBKUR.SERVICE.pdb

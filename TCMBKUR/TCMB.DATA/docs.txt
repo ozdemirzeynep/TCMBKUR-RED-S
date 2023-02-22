@@ -1,0 +1,5 @@
+﻿Add-Migration "initial-migration" -project TCMB.Data -context DataContext -s TCMBKUR.WEB -verbose
+Remove-Migration -project TCMB.DATA -s TCMBKUR.WEB
+
+
+Update-Database -Project TCMB.Data -Context DataContext -s TCMBKUR.WEB -verbose
